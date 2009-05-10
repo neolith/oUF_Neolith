@@ -1,0 +1,10 @@
+## Interface: 31100
+## Title: oUF_Neolith
+## Author: neolith
+## Version: BETA
+## Notes: Neolith's oUF Layout
+## Dependencies: oUF
+## OptionalDeps: oUF_DebuffHighlight, oUF_HealComm, oUF_Banzai
+
+oUF_Neolith.lua
+oUF_Neolith.xml
